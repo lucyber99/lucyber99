@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+Kenalin Aku **Revo** seorang mahasiswa semester 5 **Teknik Informatika di Institut Teknologi Sumatera**.<br>
+Seseorang yang tertarik pada dunia IT khususnya pada **machine learning & deep learning**.<br>
+disamping berkuliah aku juga sedang menempuh program Asah led by Dicoding periode Agustus 2025 - Januari 2026.
 <!--
 **lucyber99/lucyber99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
